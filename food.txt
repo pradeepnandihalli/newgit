@@ -1,3 +1,7 @@
 
 welcome to python world 
 
+
+list 
+tuple 
+set 
