@@ -5,3 +5,8 @@ welcome to python world
 list 
 tuple 
 set 
+
+......list........
+index
+find 
+sort 
